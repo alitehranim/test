@@ -6,3 +6,4 @@ how old are you?
 what time is it?
 what is your country?
 how tall are you?
+where are you from?
