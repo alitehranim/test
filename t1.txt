@@ -1,2 +1,5 @@
 hello
 how are uou
+goodbye
+what up?
+how old are you?
